@@ -1,0 +1,5 @@
+data_type,algo,seed,train.val,auc
+subtype,svc,8,0,0.5533839342188489
+subtype,rf,8,0,0.5809614168247945
+subtype,lr,8,0,0.5795698924731183
+subtype,avg,8,0,0.5795698924731183

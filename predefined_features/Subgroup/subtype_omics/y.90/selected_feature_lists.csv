@@ -1,0 +1,106 @@
+feature,omics_type,name
+MP0008,MTB,2-Hydroxy-3-methylbutyric acid
+MP0009,MTB,2-Hydroxybutyric acid
+MP0010,MTB,2-Phenylpropionate
+MP0015,MTB,3-Methyl-2-oxovaleric acid
+MP0018,MTB,"8,11,14-Eicosatrienoic acid"
+MP0021,MTB,Adipoylcarnitine
+MP0022,MTB,Adrenic acid
+MP0024,MTB,Alpha-Ketoisovaleric acid
+MP0026,MTB,Alpha-N-Phenylacetyl-L-Glutamine
+MP0034,MTB,Chenodeoxycholic acid
+MP0035,MTB,Cholic acid
+MP0038,MTB,Citrulline
+MP0042,MTB,D-Gluconolactone
+MP0043,MTB,D-Glucose 
+MP0044,MTB,D-Maltose/Alpha-Lactose
+MP0050,MTB,Dimethylglycine
+MP0057,MTB,Fumaric acid
+MP0064,MTB,Glycine 
+MP0066,MTB,Glycocholic acid
+MP0073,MTB,Hippuric acid
+MP0074,MTB,Homovanillic acid
+MP0075,MTB,Hydrocinnamic acid
+MP0076,MTB,Hydroxyphenyllactic acid
+MP0077,MTB,Hydroxypropionic acid
+MP0080,MTB,Isocitric acid
+MP0082,MTB,Ketoleucine
+MP0085,MTB,L-Asparagine
+MP0086,MTB,L-Aspartic acid
+MP0087,MTB,L-Glutamic acid 
+MP0088,MTB,L-Glutamine 
+MP0092,MTB,L-Lactic acid 
+MP0093,MTB,L-Leucine 
+MP0095,MTB,L-Malic acid
+MP0098,MTB,L-Proline
+MP0100,MTB,L-Threonine
+MP0101,MTB,L-Tryptophan
+MP0102,MTB,L-Tyrosine 
+MP0103,MTB,L-Valine 
+MP0112,MTB,Methylmalonylcarnitine
+MP0116,MTB,Myristoleic acid
+MP0118,MTB,N-Acetyl-L-aspartic acid
+MP0119,MTB,N-Acetylneuraminic acid
+MP0120,MTB,N-Acetylserine
+MP0122,MTB,Octanoic acid
+MP0128,MTB,Oxoglutaric acid
+MP0131,MTB,Phenylacetic acid
+MP0132,MTB,Phenyllactic acid
+MP0135,MTB,Pyroglutamic acid
+MP0136,MTB,Pyruvic acid 
+MP0138,MTB,Stearylcarnitine
+MP0141,MTB,Taurochenodeoxycholic acid
+MP0142,MTB,Taurocholic acid
+MP0146,MTB,2-Hydroxycaproic acid
+MP0150,MTB,2-Methylbutyroylcarnitine
+MP0151,MTB,"3,4-Dihydroxymandelic acid"
+MP0154,MTB,3-Hydroxybutyrylcarnitine
+MP0156,MTB,5-Aminolevulinic acid
+MP0159,MTB,Aminoadipic acid
+MP0167,MTB,Glucaric acid
+MP0176,MTB,L-Isoleucine 
+MP0183,MTB,Malonylcarnitine
+exRNA000003,MIR,hsa-miR-122-5p
+exRNA000005,MIR,hsa-let-7b-5p
+exRNA000035,MIR,hsa-miR-27b-3p
+exRNA000048,MIR,hsa-miR-16-2-3p
+exRNA000053,MIR,hsa-miR-185-5p
+exRNA000059,MIR,hsa-miR-425-5p
+exRNA000066,MIR,hsa-miR-193a-5p
+exRNA000086,MIR,hsa-miR-192-5p
+exRNA000091,MIR,hsa-miR-99a-5p
+exRNA000097,MIR,hsa-miR-885-5p
+exRNA000099,MIR,hsa-miR-100-5p
+exRNA000107,MIR,hsa-miR-7-5p
+exRNA000110,MIR,hsa-miR-92b-3p
+exRNA000118,MIR,hsa-miR-505-3p
+exRNA000145,MIR,hsa-miR-20a-5p
+exRNA000172,MIR,hsa-miR-151b
+exRNA000183,MIR,hsa-miR-193b-5p
+exRNA000191,MIR,hsa-miR-424-5p
+exRNA000210,MIR,hsa-miR-194-5p
+exRNA000221,MIR,hsa-miR-503-5p
+exRNA000394,MIR,hsa-miR-125b-2-3p
+exRNA000408,MIR,hsa-miR-885-3p
+A2M,PRT,A2M
+APOD,PRT,APOD
+APOE,PRT,APOE
+APOF,PRT,APOF
+C3,PRT,C3
+CFH,PRT,CFH
+HBA1,PRT,HBA1
+HBZ,PRT,HBZ
+IGFBP2,PRT,IGFBP2
+IGKV1.16,PRT,IGKV1-16
+IGLV1.51,PRT,IGLV1-51
+METTL18,PRT,METTL18
+MFGE8,PRT,MFGE8
+NAP1L1,PRT,NAP1L1
+PRG4,PRT,PRG4
+SERPINF2,PRT,SERPINF2
+SHBG,PRT,SHBG
+TAGLN,PRT,TAGLN
+TUBA4A,PRT,TUBA4A
+VTN,PRT,VTN
+YWHAH,PRT,YWHAH
+YWHAQ,PRT,YWHAQ

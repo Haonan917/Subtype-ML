@@ -1,0 +1,5 @@
+data_type,algo,seed,train.val,auc
+omics,svc,3,0,0.7625553447185327
+omics,rf,3,0,0.7272612270714738
+omics,lr,3,0,0.7206831119544592
+omics,avg,3,0,0.7671094244149274

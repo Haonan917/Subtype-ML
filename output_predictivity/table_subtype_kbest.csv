@@ -1,0 +1,5 @@
+Feature,lr_1,lr_2,lr_3,lr_4,lr_5,lr_6,lr_7,lr_8,lr_9,lr_10,rf_1,rf_2,rf_3,rf_4,rf_5,rf_6,rf_7,rf_8,rf_9,rf_10,svc_1,svc_2,svc_3,svc_4,svc_5,svc_6,svc_7,svc_8,svc_9,svc_10
+subgroup_MARD,True,False,False,False,False,False,True,True,False,True,True,False,False,False,False,False,True,False,False,True,True,True,True,True,True,True,True,True,True,True
+subgroup_MOD,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,True,True,False,False
+subgroup_SIDD,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+subgroup_SIRD,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True

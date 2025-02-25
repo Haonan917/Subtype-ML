@@ -1,0 +1,6 @@
+data_type: Sub
+discovery_dir_name: Training
+omics_list:
+- SubgroupData_CG.pkl
+omics_parent_dir: ./data/subgroup_data/cg/
+validation_dir_name: Validation
